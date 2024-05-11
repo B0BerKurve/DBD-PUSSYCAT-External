@@ -1,0 +1,242 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Release\) содержит файлы, которые используются совместно с другим проектом (Squad.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+C:\Users\breez\Desktop\DBDDebug\HackExternal\offset.h(40,37): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\offset.h(41,38): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\cfg.h(131,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(66,1): warning C4005: STATUS_WAIT_0: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2549,1): message : см. предыдущее определение "STATUS_WAIT_0"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(223,1): warning C4005: STATUS_ABANDONED_WAIT_0: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2550,1): message : см. предыдущее определение "STATUS_ABANDONED_WAIT_0"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(246,1): warning C4005: STATUS_USER_APC: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2551,1): message : см. предыдущее определение "STATUS_USER_APC"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(282,1): warning C4005: STATUS_TIMEOUT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2552,1): message : см. предыдущее определение "STATUS_TIMEOUT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(291,1): warning C4005: STATUS_PENDING: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2553,1): message : см. предыдущее определение "STATUS_PENDING"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(747,1): warning C4005: DBG_EXCEPTION_HANDLED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2554,1): message : см. предыдущее определение "DBG_EXCEPTION_HANDLED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(756,1): warning C4005: DBG_CONTINUE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2555,1): message : см. предыдущее определение "DBG_CONTINUE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(831,1): warning C4005: STATUS_SEGMENT_NOTIFICATION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2556,1): message : см. предыдущее определение "STATUS_SEGMENT_NOTIFICATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(994,1): warning C4005: STATUS_FATAL_APP_EXIT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2557,1): message : см. предыдущее определение "STATUS_FATAL_APP_EXIT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1332,1): warning C4005: DBG_REPLY_LATER: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2558,1): message : см. предыдущее определение "DBG_REPLY_LATER"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1350,1): warning C4005: DBG_TERMINATE_THREAD: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2559,1): message : см. предыдущее определение "DBG_TERMINATE_THREAD"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1359,1): warning C4005: DBG_TERMINATE_PROCESS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2560,1): message : см. предыдущее определение "DBG_TERMINATE_PROCESS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1368,1): warning C4005: DBG_CONTROL_C: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2561,1): message : см. предыдущее определение "DBG_CONTROL_C"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1377,1): warning C4005: DBG_PRINTEXCEPTION_C: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2562,1): message : см. предыдущее определение "DBG_PRINTEXCEPTION_C"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1386,1): warning C4005: DBG_RIPEXCEPTION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2563,1): message : см. предыдущее определение "DBG_RIPEXCEPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1395,1): warning C4005: DBG_CONTROL_BREAK: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2564,1): message : см. предыдущее определение "DBG_CONTROL_BREAK"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1404,1): warning C4005: DBG_COMMAND_EXCEPTION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2565,1): message : см. предыдущее определение "DBG_COMMAND_EXCEPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1413,1): warning C4005: DBG_PRINTEXCEPTION_WIDE_C: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2566,1): message : см. предыдущее определение "DBG_PRINTEXCEPTION_WIDE_C"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1445,1): warning C4005: STATUS_GUARD_PAGE_VIOLATION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2567,1): message : см. предыдущее определение "STATUS_GUARD_PAGE_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1456,1): warning C4005: STATUS_DATATYPE_MISALIGNMENT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2568,1): message : см. предыдущее определение "STATUS_DATATYPE_MISALIGNMENT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1467,1): warning C4005: STATUS_BREAKPOINT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2569,1): message : см. предыдущее определение "STATUS_BREAKPOINT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1478,1): warning C4005: STATUS_SINGLE_STEP: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2570,1): message : см. предыдущее определение "STATUS_SINGLE_STEP"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1781,1): warning C4005: STATUS_LONGJUMP: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2571,1): message : см. предыдущее определение "STATUS_LONGJUMP"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1808,1): warning C4005: STATUS_UNWIND_CONSOLIDATE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2572,1): message : см. предыдущее определение "STATUS_UNWIND_CONSOLIDATE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1923,1): warning C4005: DBG_EXCEPTION_NOT_HANDLED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2573,1): message : см. предыдущее определение "DBG_EXCEPTION_NOT_HANDLED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2090,1): warning C4005: STATUS_ACCESS_VIOLATION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2574,1): message : см. предыдущее определение "STATUS_ACCESS_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2099,1): warning C4005: STATUS_IN_PAGE_ERROR: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2575,1): message : см. предыдущее определение "STATUS_IN_PAGE_ERROR"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2117,1): warning C4005: STATUS_INVALID_HANDLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2576,1): message : см. предыдущее определение "STATUS_INVALID_HANDLE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2162,1): warning C4005: STATUS_INVALID_PARAMETER: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2577,1): message : см. предыдущее определение "STATUS_INVALID_PARAMETER"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2262,1): warning C4005: STATUS_NO_MEMORY: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2578,1): message : см. предыдущее определение "STATUS_NO_MEMORY"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2319,1): warning C4005: STATUS_ILLEGAL_INSTRUCTION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2579,1): message : см. предыдущее определение "STATUS_ILLEGAL_INSTRUCTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2400,1): warning C4005: STATUS_NONCONTINUABLE_EXCEPTION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2580,1): message : см. предыдущее определение "STATUS_NONCONTINUABLE_EXCEPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2409,1): warning C4005: STATUS_INVALID_DISPOSITION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2581,1): message : см. предыдущее определение "STATUS_INVALID_DISPOSITION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3342,1): warning C4005: STATUS_ARRAY_BOUNDS_EXCEEDED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2582,1): message : см. предыдущее определение "STATUS_ARRAY_BOUNDS_EXCEEDED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3352,1): warning C4005: STATUS_FLOAT_DENORMAL_OPERAND: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2583,1): message : см. предыдущее определение "STATUS_FLOAT_DENORMAL_OPERAND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3362,1): warning C4005: STATUS_FLOAT_DIVIDE_BY_ZERO: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2584,1): message : см. предыдущее определение "STATUS_FLOAT_DIVIDE_BY_ZERO"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3372,1): warning C4005: STATUS_FLOAT_INEXACT_RESULT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2585,1): message : см. предыдущее определение "STATUS_FLOAT_INEXACT_RESULT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3382,1): warning C4005: STATUS_FLOAT_INVALID_OPERATION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2586,1): message : см. предыдущее определение "STATUS_FLOAT_INVALID_OPERATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3392,1): warning C4005: STATUS_FLOAT_OVERFLOW: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2587,1): message : см. предыдущее определение "STATUS_FLOAT_OVERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3402,1): warning C4005: STATUS_FLOAT_STACK_CHECK: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2588,1): message : см. предыдущее определение "STATUS_FLOAT_STACK_CHECK"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3412,1): warning C4005: STATUS_FLOAT_UNDERFLOW: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2589,1): message : см. предыдущее определение "STATUS_FLOAT_UNDERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3422,1): warning C4005: STATUS_INTEGER_DIVIDE_BY_ZERO: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2590,1): message : см. предыдущее определение "STATUS_INTEGER_DIVIDE_BY_ZERO"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3432,1): warning C4005: STATUS_INTEGER_OVERFLOW: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2591,1): message : см. предыдущее определение "STATUS_INTEGER_OVERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3442,1): warning C4005: STATUS_PRIVILEGED_INSTRUCTION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2592,1): message : см. предыдущее определение "STATUS_PRIVILEGED_INSTRUCTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4388,1): warning C4005: STATUS_STACK_OVERFLOW: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2593,1): message : см. предыдущее определение "STATUS_STACK_OVERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4905,1): warning C4005: STATUS_DLL_NOT_FOUND: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2594,1): message : см. предыдущее определение "STATUS_DLL_NOT_FOUND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4934,1): warning C4005: STATUS_ORDINAL_NOT_FOUND: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2595,1): message : см. предыдущее определение "STATUS_ORDINAL_NOT_FOUND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4944,1): warning C4005: STATUS_ENTRYPOINT_NOT_FOUND: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2596,1): message : см. предыдущее определение "STATUS_ENTRYPOINT_NOT_FOUND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4954,1): warning C4005: STATUS_CONTROL_C_EXIT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2597,1): message : см. предыдущее определение "STATUS_CONTROL_C_EXIT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(5032,1): warning C4005: STATUS_DLL_INIT_FAILED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2598,1): message : см. предыдущее определение "STATUS_DLL_INIT_FAILED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(6029,1): warning C4005: STATUS_CONTROL_STACK_VIOLATION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2599,1): message : см. предыдущее определение "STATUS_CONTROL_STACK_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7623,1): warning C4005: STATUS_FLOAT_MULTIPLE_FAULTS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2600,1): message : см. предыдущее определение "STATUS_FLOAT_MULTIPLE_FAULTS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7633,1): warning C4005: STATUS_FLOAT_MULTIPLE_TRAPS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2601,1): message : см. предыдущее определение "STATUS_FLOAT_MULTIPLE_TRAPS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7765,1): warning C4005: STATUS_REG_NAT_CONSUMPTION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2602,1): message : см. предыдущее определение "STATUS_REG_NAT_CONSUMPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8748,1): warning C4005: STATUS_HEAP_CORRUPTION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2603,1): message : см. предыдущее определение "STATUS_HEAP_CORRUPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8976,1): warning C4005: STATUS_STACK_BUFFER_OVERRUN: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2604,1): message : см. предыдущее определение "STATUS_STACK_BUFFER_OVERRUN"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9103,1): warning C4005: STATUS_INVALID_CRUNTIME_PARAMETER: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2605,1): message : см. предыдущее определение "STATUS_INVALID_CRUNTIME_PARAMETER"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9166,1): warning C4005: STATUS_ASSERTION_FAILURE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2606,1): message : см. предыдущее определение "STATUS_ASSERTION_FAILURE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10075,1): warning C4005: STATUS_ENCLAVE_VIOLATION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2607,1): message : см. предыдущее определение "STATUS_ENCLAVE_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10736,1): warning C4005: STATUS_INTERRUPTED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2608,1): message : см. предыдущее определение "STATUS_INTERRUPTED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10745,1): warning C4005: STATUS_THREAD_NOT_RUNNING: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2609,1): message : см. предыдущее определение "STATUS_THREAD_NOT_RUNNING"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(11057,1): warning C4005: STATUS_ALREADY_REGISTERED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2610,1): message : см. предыдущее определение "STATUS_ALREADY_REGISTERED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(14940,1): warning C4005: STATUS_SXS_EARLY_DEACTIVATION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2612,1): message : см. предыдущее определение "STATUS_SXS_EARLY_DEACTIVATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(14949,1): warning C4005: STATUS_SXS_INVALID_DEACTIVATION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2613,1): message : см. предыдущее определение "STATUS_SXS_INVALID_DEACTIVATION"
+C:\Users\breez\Desktop\DBDDebug\HackExternal\function.h(75,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\function.h(98,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\function.h(99,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\function.h(101,15): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\function.h(240,13): warning C4101: e: неиспользованная локальная переменная
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: DXGI_STATUS_OCCLUDED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58019,1): message : см. предыдущее определение "DXGI_STATUS_OCCLUDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: DXGI_STATUS_CLIPPED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58028,1): message : см. предыдущее определение "DXGI_STATUS_CLIPPED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: DXGI_STATUS_NO_REDIRECTION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58037,1): message : см. предыдущее определение "DXGI_STATUS_NO_REDIRECTION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: DXGI_STATUS_NO_DESKTOP_ACCESS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58046,1): message : см. предыдущее определение "DXGI_STATUS_NO_DESKTOP_ACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58055,1): message : см. предыдущее определение "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: DXGI_STATUS_MODE_CHANGED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58064,1): message : см. предыдущее определение "DXGI_STATUS_MODE_CHANGED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: DXGI_STATUS_MODE_CHANGE_IN_PROGRESS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58073,1): message : см. предыдущее определение "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: DXGI_ERROR_INVALID_CALL: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58088,1): message : см. предыдущее определение "DXGI_ERROR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: DXGI_ERROR_NOT_FOUND: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58097,1): message : см. предыдущее определение "DXGI_ERROR_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: DXGI_ERROR_MORE_DATA: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58106,1): message : см. предыдущее определение "DXGI_ERROR_MORE_DATA"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: DXGI_ERROR_UNSUPPORTED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58115,1): message : см. предыдущее определение "DXGI_ERROR_UNSUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: DXGI_ERROR_DEVICE_REMOVED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58124,1): message : см. предыдущее определение "DXGI_ERROR_DEVICE_REMOVED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: DXGI_ERROR_DEVICE_HUNG: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58133,1): message : см. предыдущее определение "DXGI_ERROR_DEVICE_HUNG"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: DXGI_ERROR_DEVICE_RESET: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58143,1): message : см. предыдущее определение "DXGI_ERROR_DEVICE_RESET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: DXGI_ERROR_WAS_STILL_DRAWING: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58152,1): message : см. предыдущее определение "DXGI_ERROR_WAS_STILL_DRAWING"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: DXGI_ERROR_FRAME_STATISTICS_DISJOINT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58162,1): message : см. предыдущее определение "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58171,1): message : см. предыдущее определение "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: DXGI_ERROR_DRIVER_INTERNAL_ERROR: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58181,1): message : см. предыдущее определение "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: DXGI_ERROR_NONEXCLUSIVE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58190,1): message : см. предыдущее определение "DXGI_ERROR_NONEXCLUSIVE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: DXGI_ERROR_NOT_CURRENTLY_AVAILABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58199,1): message : см. предыдущее определение "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58209,1): message : см. предыдущее определение "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: DXGI_ERROR_REMOTE_OUTOFMEMORY: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58218,1): message : см. предыдущее определение "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,1): warning C4005: D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58524,1): message : см. предыдущее определение "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,1): warning C4005: D3D11_ERROR_FILE_NOT_FOUND: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58533,1): message : см. предыдущее определение "D3D11_ERROR_FILE_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,1): warning C4005: D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58543,1): message : см. предыдущее определение "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,1): warning C4005: D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58552,1): message : см. предыдущее определение "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58500,1): message : см. предыдущее определение "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: D3D10_ERROR_FILE_NOT_FOUND: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58509,1): message : см. предыдущее определение "D3D10_ERROR_FILE_NOT_FOUND"
+C:\Users\breez\Desktop\DBDDebug\HackExternal\overlay.h(93,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\protection.h(66,11): warning C4305: return: усечение из "int" в "bool"
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(80,8): warning C4101: i: неиспользованная локальная переменная
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(185,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1306,17): warning C4244: аргумент: преобразование "float" в "uint64_t", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1309,10): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "std::string"
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1420,39): warning C4099: TArray<uint64_t>: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1420,9): message : см. объявление "TArray<uint64_t>"
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1446,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1465,72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1465,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1465,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1486,56): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1486,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1490,64): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1490,33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1501,64): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1501,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1505,72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1505,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1600,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(1600,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(2105,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(2241,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(2673,32): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(2674,32): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(2904,9): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "xorstr"
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(2914,9): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "xorstr"
+C:\Users\breez\Desktop\DBDDebug\HackExternal\main.cpp(2931,25): warning C4244: =: преобразование "uintptr_t" в "DWORD", возможна потеря данных
+C:\Users\breez\Desktop\DBDDebug\HackExternal\cfg.h(131,19): warning C4838: Преобразование из "float" в "int" требует сужающего преобразования.
+C:\Users\breez\Desktop\DBDDebug\HackExternal\singleton.h(16,12): message : во время компиляции функции-члена класс шаблон "T &Singleton<T>::Get(void)"
+          with
+          [
+              T=Configuration::Settings
+          ]
+C:\Users\breez\Desktop\DBDDebug\HackExternal\cfg.h(151,2): message : см. первую ссылку на "Singleton<Configuration::Settings>::Get" в "GetAimKey"
+C:\Users\breez\Desktop\DBDDebug\HackExternal\cfg.h(14,26): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Singleton<Configuration::Settings>"
+C:\Users\breez\Desktop\DBDDebug\HackExternal\offset.h(40,37): warning C4838: Преобразование из "int" в "float" требует сужающего преобразования.
+C:\Users\breez\Desktop\DBDDebug\HackExternal\singleton.h(16,12): message : во время компиляции функции-члена класс шаблон "T &Singleton<T>::Get(void)"
+          with
+          [
+              T=BloodHunt::Variables
+          ]
+C:\Users\breez\Desktop\DBDDebug\HackExternal\function.h(196,22): message : см. первую ссылку на "Singleton<BloodHunt::Variables>::Get" в "GetNameById"
+C:\Users\breez\Desktop\DBDDebug\HackExternal\offset.h(23,27): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Singleton<BloodHunt::Variables>"
+C:\Users\breez\Desktop\DBDDebug\HackExternal\offset.h(41,38): warning C4838: Преобразование из "int" в "float" требует сужающего преобразования.
+  Создание кода
+                                                                                                                                                                                                                                                                                                                                                         
